@@ -4,6 +4,6 @@ WORKDIR /usr/src/app
 
 COPY hello.py ./
 
-COPY . .
+COPY . . .......
 
 CMD [ "python", "hello.py" ]

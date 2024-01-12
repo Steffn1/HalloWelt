@@ -1,4 +1,0 @@
-# neuesRepository
-# myRep
-# HalloWelt
-# HalloWelt
